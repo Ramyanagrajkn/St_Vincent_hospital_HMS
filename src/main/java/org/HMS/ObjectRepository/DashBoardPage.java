@@ -42,6 +42,8 @@ public class DashBoardPage
 	//admin
 	@FindBy(xpath="//h2[text()='Manage Users']/following::a[@href='manage-users.php']")
 	private WebElement adminManageUsers;
+	
+	//@
 
 //initialization all element variable
 		public DashBoardPage(WebDriver driver)
