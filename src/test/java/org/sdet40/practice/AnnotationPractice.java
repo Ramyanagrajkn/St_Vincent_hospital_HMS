@@ -14,9 +14,15 @@ public class AnnotationPractice {
 	
 	// changes done by engg-1
 	
+<<<<<<< HEAD
 	// changes done by engg-2
 	
 	//changes done by engg-2 second time
+=======
+	// changes done by engg-1 second time
+	
+	//changes done by engg-1 third time
+>>>>>>> branch 'master' of https://github.com/Ramyanagrajkn/St_Vincent_hospital_HMS.git
 	@Test
 	public void test()
 	{
